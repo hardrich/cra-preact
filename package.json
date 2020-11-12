@@ -30,7 +30,7 @@
 		"react-scripts": "^3.4.0"
 	},
 	"dependencies": {
-		"preact": "^10.3.2",
+		"preact": "^10.5.5",
 		"require-in-the-middle": "^5.0.3"
 	}
 }
